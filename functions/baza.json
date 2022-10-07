@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workcademy-firebase",
+  "private_key_id": "22869e4ed7ed9e88e619ed19d906d410da19a20a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDo8xxVQPd2G7D+\nNkmHSMB/yKP9KgqriEvG+6X7+WPGWruwDmCpfo8VkC/Il0LbusuOjlwB2UPbs609\nVm2Rd+MTaxWb3sWqIQzp90SS+JZCPwIqoaY9vP+aH4Fy9Hn8a+qRH3fnmo5jvXL2\n3crc0w6HJM01U9oSqB3soeXGd9J0GKsq3nth7QtVDhf/d1xf+Bd+2c1LLBTSyQNS\neHAtjTjbAReJ7DBOm8IvhM1B6ZtnMYzB+aUpd7prBkdEuBrUvK5NnNAxl88f7iaA\nC66+y7Me35tjdwgQxmffygZkc0BLuFIH/e0JkWxnqQOWLrc8EIcsTy6LAye9eVPu\nDa2sNlw7AgMBAAECggEAPsm8Usxahvaqy7JVOkYlQKwTa3rn+lkX16/fit2rA31U\nRn1xl23Z4j2Fa6M9rZ0ZHbkIWqU1kaPJ55UCnml6hrLf1a4DiDo1UWDJFnYzhfKW\nwmfkt5JYMLIaQaJcuOlbhbc+KepyQ7b+JEUe10t6CHomZ5/M0SeIPU5b8RU93/V8\ncZJTqZa+l9llU7YSLvvszaMTA897VrVm+pwi8keqTKDHeIIfIHJX3PtBsAcuRBu0\np57LqSj5tSBEdyiWxas17viju3oaBz6m8LBGRBekGgzmbZ45vmzNVSj71cWOf66A\nrbzGQgU3ZL5iTSCV2DFFm6ASESM4EusZJWk1oTAAAQKBgQD/kOnoK3u8O2/Unrn1\n3HvB4Fh+ZCMUe5VAh/Z4iTZTxcXbfxxiwKHhdOSkbLu3WMDOJ/T3xUiI7b5hF49N\nEnkWLqHe8wRGY7+fE7hFfxyzn87pXhabktwiLSsE1q7bbNXvFp0CoOjH2VZ6Z3cv\nDXjacXaxhymDz8j3F2tDsSUAAQKBgQDpWF3JO+3nfjH7KTbCx0AUD+jTJ26TdPdJ\n9CZWtKf8UTE7v4tePsLpQMeN8u08ei1JPsK9hZ+a57wXFPawsq2CkXnXdCC/WC6V\nk8VX5WemP+3mS2xUzUvYcMVEE8H4SmGaMQPf+FYS7EeMzi9gdjKMz909MerL1MYq\nWq0fjK9cOwKBgCvdwthwBkgT56kWKZMy6icoC+h95auRXtf5vmuIGcQdUU3Qrp2g\ntOiO+OPkKgBZgpagMyMIQOAH9sKRma4/+nq9PFmZWuV+H5j9eIatP87xIkHaPYUs\nmw5etGCbPN46+ymTtxWJawtKmdZexg1Ugab1DMuCCLUwSC1pXqb61AABAoGAep7U\nEfZrKzX2f9yFiU95TdGacLOM+PIDLRqetvuSNxZXf+VFEI58kGRZOS/KGPi/KXlQ\njpVUbOuPvLVoeSw735wg4eaFeueU+0c+8dR8ZjG8C0PhNqL3U1LXZtHXIWm85nER\nbzWpzaHaa5TB8rfKEpL82LaNgvVZ+VHTHfwo/pcCgYEA3nJTTGBRcuHCxv2WRGyA\nKCuNwmBr7Dzhm29eueBUVimlAbo5ubgMyBOT+WyZAQLNXMNkQeN+6kI7G6NlfGVr\nibkgHZwa5N5UXRvEl6wIyDMHOQCm//Dy1XDlKTZMEq+sPQKMumtgeqsXiqpHVMsG\ndo7DEsCOKQGcCaPmRmGWXCk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p1x0g@workcademy-firebase.iam.gserviceaccount.com",
+  "client_id": "117970987215890798119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p1x0g%40workcademy-firebase.iam.gserviceaccount.com"
+}
